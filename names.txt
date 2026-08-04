@@ -19,7 +19,7 @@
 | 17 | 4CI23EC013 | HASMITHA K M      | HASMITHAA K M             |
 | 18 | 4CI23EC042 | Ruthika H M       | Ruthikka H M              |
 | 19 | 4CI24EC408 | Sanjay R          | Sanjayy R                 |
-| 20 | 4CI24EC405 | HarshaVardhan C J | HarshaVardhann C J        |
+| 20 | 4CI24EC405 | HarshaVardhan C J | HarshaVardhan C J         *
 | 21 | 4CI23EC047 | Sindhu            | Sindhuu                   |
 | 22 | 4CI23EC038 | Rakshitha S R     | Rakshithaa S R            |
 | 23 | 4CI23EC035 | Raksha B          | Rakshaa B                 |
