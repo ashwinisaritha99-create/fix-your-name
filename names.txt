@@ -3,12 +3,12 @@
 |  1 | 4CI23EC035 | Raksha B          | Rakshaa B                 |
 |  2 | 4CI23EC018 | JASHIKA A K       | JASHIKAA A K              |
 |  3 | 4CI23EC020 | Kavana m.k        | Kavanaa m.k               |
-|  4 | 4CI23EC041 | Ruchitha G        | Ruchithaa G               |
+|  4 | 4CI23EC041 | Ruchitha G        | Ruchitha G                |
 |  5 | 4CI23EC045 | Sharath k n       | Sharrath k n              |
 |  6 | 4CI24EC409 | M S SANJITH       | M S SANJITTH              |
 |  7 | 4CI23EC011 | Greeshma          | Greeshmaa                 |
 |  8 | 4CI23EC021 | Krishna R C       | Krishnna R C              |
-|  9 | 4CI23EC016 | hima m            | himaa m                   |
+|  9 | 4CI23EC016 | hima m            | hima m                   *
 | 10 | 4CI23EC053 | Vinay N V         | Vinaay N V                |
 | 11 | 4CI23EC028 | Nithin H B        | Nitthin H B               |
 | 12 | 4CI23EC026 | Nambratha N       | Nambrathaa N              |
@@ -28,7 +28,7 @@
 | 26 | 4CI23EC025 | Manasa G S        | Manasaa G S               |
 | 27 | 4CI23EC001 | Aishwarya YG      | Aishwaryaa YG             |
 | 28 | 4CI23EC002 | Anusha c k        | Anushha c k               |
-| 29 | 4CI23EC005 | Ashwini R         | Ashw ini R                |
+| 29 | 4CI23EC005 | Ashwini R         | Ashwini R                 *
 | 30 | 4CI23EC031 | Prarthan          | Prarthann                 |
 | 31 | 4CI23EC009 | Dhyan BK          | Dhyann BK                 |
 | 32 | 4CI23EC037 | Rakshitha         | Rakshithaa                |
