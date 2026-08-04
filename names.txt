@@ -3,7 +3,7 @@
 |  1 | 4CI23EC035 | Raksha B          | Rakshaa B                 |
 |  2 | 4CI23EC018 | JASHIKA A K       | JASHIKAA A K              |
 |  3 | 4CI23EC020 | Kavana m.k        | Kavanaa m.k               |
-|  4 | 4CI23EC041 | Ruchitha G        | Ruchithaa G               |
+|  4 | 4CI23EC041 | Ruchitha G        | Ruchitha G                |
 |  5 | 4CI23EC045 | Sharath k n       | Sharrath k n              |
 |  6 | 4CI24EC409 | M S SANJITH       | M S SANJITTH              |
 |  7 | 4CI23EC011 | Greeshma          | Greeshmaa                 |
