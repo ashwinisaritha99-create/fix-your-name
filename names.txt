@@ -28,7 +28,7 @@
 | 26 | 4CI23EC025 | Manasa G S        | Manasaa G S               |
 | 27 | 4CI23EC001 | Aishwarya YG      | Aishwaryaa YG             |
 | 28 | 4CI23EC002 | Anusha c k        | Anushha c k               |
-| 29 | 4CI23EC005 | Ashwini R         | Ashw ini R                |
+| 29 | 4CI23EC005 | Ashwini R         | Ashwini R                 *
 | 30 | 4CI23EC031 | Prarthan          | Prarthann                 |
 | 31 | 4CI23EC009 | Dhyan BK          | Dhyann BK                 |
 | 32 | 4CI23EC037 | Rakshitha         | Rakshithaa                |
